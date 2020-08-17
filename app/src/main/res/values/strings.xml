@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KTemConverter</string>
+    <string name="textFahreinheit">Fahreinheit</string>
+    <string name="textCelsius">Celsius</string>
+    <string name="digite_a_temperatura">Digite a temperatura</string>
+    <string name="converter">Converter</string>
+</resources>
